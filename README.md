@@ -33,7 +33,43 @@ Jetpack Compose を学ぶためのサンドボックスリポジトリです。�
 - Side effects (`LaunchedEffect`, `DisposableEffect`)
 - Compose UI テスト
 
-## 参考
+## 参考リンク
 
-- https://developer.android.com/compose
-- https://developer.android.com/courses/jetpack-compose/course
+### 公式ドキュメント
+
+- [Compose 総合](https://developer.android.com/compose)
+- [公式コース](https://developer.android.com/courses/jetpack-compose/course)
+- [Codelab 一覧](https://developer.android.com/courses/pathways/compose)
+- [Thinking in Compose](https://developer.android.com/develop/ui/compose/mental-model)
+- [State](https://developer.android.com/develop/ui/compose/state)
+- [Side-effects](https://developer.android.com/develop/ui/compose/side-effects)
+- [パフォーマンス](https://developer.android.com/develop/ui/compose/performance)
+- [Navigation](https://developer.android.com/develop/ui/compose/navigation)
+- [アーキテクチャガイド](https://developer.android.com/topic/architecture)
+- [テスト](https://developer.android.com/develop/ui/compose/testing)
+- [Compose API ガイドライン](https://github.com/androidx/androidx/blob/androidx-main/compose/docs/compose-api-guidelines.md)
+
+### 実践コード
+
+- [Now in Android](https://github.com/android/nowinandroid) (業務構成の手本)
+- [Compose Samples](https://github.com/android/compose-samples)
+- [Architecture Samples](https://github.com/android/architecture-samples)
+
+### YouTube (チャンネル名で検索)
+
+- Android Developers (公式、Google I/O、MAD Skills)
+- Philipp Lackner
+- Stevdza-San
+- Coding in Flow
+
+### 日本語
+
+- Zenn / Qiita で「Jetpack Compose」を検索
+- DroidKaigi の公開セッション
+
+### おすすめの順番
+
+1. 公式コースと Codelab で基礎を固める
+2. Thinking in Compose / State / Side-effects を読む
+3. Now in Android を読んで構成を真似る
+4. 動画で実践アプリを写経する
